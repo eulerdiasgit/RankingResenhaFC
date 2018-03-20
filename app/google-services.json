@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "992913825799",
+    "firebase_url": "https://ranking-rfc.firebaseio.com",
+    "project_id": "ranking-rfc",
+    "storage_bucket": "ranking-rfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992913825799:android:f21b6a7b805f4a3f",
+        "android_client_info": {
+          "package_name": "br.com.euprogramador.rankingresenhafc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992913825799-ql407tmnc1j4vmkfa54sjb1ct1rnt162.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.euprogramador.rankingresenhafc",
+            "certificate_hash": "4970f7e319f86a26b643cad6d16c8eaa805316bd"
+          }
+        },
+        {
+          "client_id": "992913825799-ghgfrnv2vhitrn11t9rv7ipmoolgdc82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxf9Sw7zmIGxMW6J_6Y4cqxZcMXa5tl9I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992913825799-ghgfrnv2vhitrn11t9rv7ipmoolgdc82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

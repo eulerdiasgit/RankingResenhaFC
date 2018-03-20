@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preLogin_login">Entrar</string>
+    <string name="preLogin_register">Cadastre-se</string>
+    <string name="login_hintEmail">Email</string>
+    <string name="preLogin_hintPassword">Código segurança</string>
+    <string name="login_lembrarMe">Lembrar-me</string>
+    <string name="login_btn_logar">Entrar</string>
+    <string name="login_link_esqueciSenha">Esqueci minha senha</string>
+    <string name="login_link_cadastrrar">Cadastre-se</string>
+</resources>
