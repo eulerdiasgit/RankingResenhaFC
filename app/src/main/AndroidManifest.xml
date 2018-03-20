@@ -13,10 +13,16 @@
         android:theme="@style/AppTheme">
         <activity android:name=".ui.activities.LoginActivity">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-                <category android:name="android.intent.category.LAUNCHER"/>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ui.activities.rankingPage.RankingActivity" />
+        <activity android:name=".ui.activities.profilePage.ProfileActivity" />
+        <activity android:name=".ui.activities.CadastroActivity" />
+        <activity android:name=".ui.activities.EsqueciSenhaActivity" />
+        <activity android:name=".ui.activities.calendarioPeladasPage.CalendarioPeladasActivity"></activity>
     </application>
 
 </manifest>
